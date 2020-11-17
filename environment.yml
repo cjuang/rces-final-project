@@ -11,4 +11,3 @@ dependencies:
   - ipython
   - jupyterlab
   - scipy
-  - warnings
