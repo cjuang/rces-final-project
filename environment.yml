@@ -6,7 +6,9 @@ dependencies:
   - pandas
   - xarray
   - matplotlib
+  - netcdf4
   - cartopy
   - ipython
   - jupyterlab
   - scipy
+  - warnings
