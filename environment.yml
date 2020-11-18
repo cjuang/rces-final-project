@@ -11,3 +11,6 @@ dependencies:
   - ipython
   - jupyterlab
   - scipy
+  - pip:
+    - pyepsg
+
