@@ -13,7 +13,9 @@ Research Computing for the Earth Sciences, Columbia University
 
 ## Description
 
-Fire activity in the western United States (US) presents [a clear danger to human life and infrastructure](https://earthobservatory.nasa.gov/images/147443/record-setting-fires-in-colorado-and-california), establishing a need to study the variables that may influence fire.  In this notebook, I will explore both the fuel availability (forest vs. non-forest burned area) and the climate (vapor pressure deficit) and look at patterns across western United States ecoregions.
+**Fuel type and Vapor Pressure Deficit (VPD) regional relationships on Burned Area in the Western United States**
+
+Fire activity in the western United States (US) presents [a clear danger to human life and infrastructure](https://earthobservatory.nasa.gov/images/147443/record-setting-fires-in-colorado-and-california), establishing a need to study the variables that may influence fire.  In this notebook, I will explore both the fuel availability  and the climate and look at patterns across western United States ecoregions. Two questions lead my investigation: **(1)** What is the contribution of forest and non-forest ecosystems to fire in the western US? **(2)** What kind of relationship exists between burn area and vapor pressure deficit (VPD) by region?
 
 ## Data sources
 
