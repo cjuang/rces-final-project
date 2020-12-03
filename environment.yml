@@ -7,7 +7,7 @@ dependencies:
   - xarray
   - matplotlib
   - netcdf4
-  - cartopy
+  - cartopy=0.18.*
   - ipython
   - jupyterlab
   - scipy
